@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="ALS9TfCqg5eBpyUf8j7m">
-    <mxGraphModel dx="2761" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3533" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,9 +188,6 @@
         </mxCell>
         <mxCell id="uWCTjBnmCBmoPS3BM1kT-148" value="1.Total Books&amp;nbsp;&lt;br&gt;2.Available Books&lt;br&gt;3.Issued Books&lt;br&gt;4.Overdue Books&lt;br&gt;5.Most Borrowed Books&lt;br&gt;6.Most Active Member&lt;br&gt;7. Back" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-940" y="470" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="uWCTjBnmCBmoPS3BM1kT-150" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWCTjBnmCBmoPS3BM1kT-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aOI_sVmLMZ7PSrJGsIdZ-7" target="uWCTjBnmCBmoPS3BM1kT-151">
           <mxGeometry relative="1" as="geometry">
